@@ -1,6 +1,6 @@
 # Hi, I'm Sayed 👋
 
-### 🚀 Aspiring Software Engineer | Full-Stack Web Developer
+### 🚀 Full-Stack Web Developer
 
 I'm learning **full-stack web development**, with a focus on building real-world products.
 
@@ -15,4 +15,3 @@ I'm learning **full-stack web development**, with a focus on building real-world
 * 🚀 Turning ideas into products
 
 > **Learn → Build → Debug → Ship**
-
