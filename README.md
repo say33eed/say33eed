@@ -111,7 +111,7 @@ A responsive web application for exploring development technologies and building
 **Tech Stack:**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=flat&logo=tailwindcss&logoColor=06B6D4)
 ![Vite](https://img.shields.io/badge/Vite-20232A?style=flat&logo=vite&logoColor=646CFF)
 ![React Toastify](https://img.shields.io/badge/React_Toastify-20232A?style=flat&logo=react&logoColor=61DAFB)
