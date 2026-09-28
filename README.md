@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sayed Mia</h1>
 
 <h3 align="center">
-  Full-Stack Web Engineer • React • Next.js • TypeScript
+  Full-Stack Web Developer • React • Next.js • TypeScript
 </h3>
 
 <p align="center">
